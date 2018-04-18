@@ -19,3 +19,4 @@
 [W 00:52:05.788 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180419005022 (127.0.0.1) 26.84ms referer=http://localhost:8892/notebooks/general-machine-learning.ipynb
 [I 00:52:07.148 NotebookApp] Adapting to protocol v5.1 for kernel 6cb3e8a8-99bd-48a3-812d-b3926595ba4e
 [I 00:53:19.626 NotebookApp] Saving file at /general-machine-learning.ipynb
+[I 01:01:33.786 NotebookApp] Saving file at /general-machine-learning.ipynb
